@@ -1,1 +1,2 @@
-Line 29 - added "id="search-engine-optimization""
+The client wants their website to be more accessible. I’ve added alt descriptions of all the images and changed the semantic elements of the HTML document.
+I also cleaned up the CSS file by combining redundant elements.
